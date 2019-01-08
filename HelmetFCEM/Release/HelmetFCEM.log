@@ -1,0 +1,45 @@
+﻿生成启动时间为 2016/11/23 14:23:55。
+     1>项目“E:\VS2010work\HelmetFCEM\HelmetFCEM\HelmetFCEM.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\HelmetFCEM.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\HelmetFCEM.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HelmetFCEMView.cpp
+         HelmetFCEMView.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS2010work\HelmetFCEM\Release\HelmetFCEM.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\HelmetFCEM.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\VS2010work\HelmetFCEM\Release\HelmetFCEM.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS2010work\HelmetFCEM\Release\HelmetFCEM.lib" /MACHINE:X86 Release\HelmetFCEM.res
+         Release\ClassView.obj
+         Release\DialogFirstQuota.obj
+         Release\DialogSelectQuota.obj
+         Release\DialogSetParam.obj
+         Release\DialogSetQuotaWeight.obj
+         Release\DialogShowPicture.obj
+         Release\Dialog_setSecondQuota.obj
+         Release\FileView.obj
+         Release\HelmetFCEM.obj
+         Release\HelmetFCEMDoc.obj
+         Release\HelmetFCEMView.obj
+         Release\MainFrm.obj
+         Release\MFCTabCtrlEx.obj
+         Release\OutputWnd.obj
+         Release\Quota.obj
+         Release\SelectQuota.obj
+         Release\stdafx.obj
+         Release\TransformPlus.obj
+         Release\UserCinQuota.obj
+         Release\ViewTree.obj
+         正在生成代码
+         已完成代码的生成
+         HelmetFCEM.vcxproj -> E:\VS2010work\HelmetFCEM\Release\HelmetFCEM.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\VS2010work\HelmetFCEM\Release\HelmetFCEM.exe;#1" /manifest Release\HelmetFCEM.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\HelmetFCEM.unsuccessfulbuild”。
+         正在对“Release\HelmetFCEM.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\VS2010work\HelmetFCEM\HelmetFCEM\HelmetFCEM.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:26.75
