@@ -6,7 +6,7 @@
 <center><img src="https://raw.githubusercontent.com/imu-yangyuan/HelmetFCEM/master/screenshot/1.jpg" width="600" height="326"></center>
 
 #### 新建一级指标
-<center><img src="https://raw.githubusercontent.com/imu-yangyuan/WiFiFileShare/master/screenshot/2.png" width="600" height="281"></center>
+<center><img src="https://raw.githubusercontent.com/imu-yangyuan/HelmetFCEM/master/screenshot/2.png" width="600" height="281"></center>
 
 
 ### 0x02 关于
